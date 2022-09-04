@@ -12,8 +12,6 @@ function recursiveFibonnaci(n) {
 // console.log(recursiveFibonnaci(6));
 // console.log(recursiveFibonnaci(10));
 
-//Recursive factorial
-
 function recursiveFactorial(n) {
   if (n === 0) {
     return 1;
